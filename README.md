@@ -1,2 +1,2 @@
 # Action-Snyk
-hello
+hello world
